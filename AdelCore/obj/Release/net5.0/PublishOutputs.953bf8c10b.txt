@@ -1,0 +1,15 @@
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\AdelCore.exe
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\wwwroot\css\site.css
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\wwwroot\fon22.jpg
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\wwwroot\js\site.js
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\wwwroot\rubin-v2.png
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\wwwroot\rubinfon.png
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\wwwroot\slide1.jpg
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\appsettings.json
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\AdelCore.dll
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\AdelCore.deps.json
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\AdelCore.runtimeconfig.json
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\AdelCore.pdb
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\AdelCore.Views.dll
+W:\projects\AdelCore\AdelCore\AdelCore\obj\Release\net5.0\PubTmp\Out\AdelCore.Views.pdb

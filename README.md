@@ -1,2 +1,2 @@
 # AdelCore
-Site on ASP.NET 5
+Site on ASP.NET CORE 5
